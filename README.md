@@ -35,7 +35,7 @@ Brute force algorithms to compare against are implemented in ```Brute_force_algo
 
 A timed test of different algorithms is implemented in ```test.py``` and ```test_mutation_adaptation.py```. Boxplots with the results are plotted with ```plot_comparisons.py``` and ```plot_comparisons_mutation_adapt.py```.
 
-Two word lists are included, one of 3-letter words (adapted from []()), and one of 5-letter words (from [here](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt)).
+Two word lists are included, one of 3-letter words (adapted from [here](https://github.com/hzlzh/Domain-Name-List/blob/master/3-letter-words.txt)), and one of 5-letter words (from [here](https://github.com/charlesreid1/five-letter-words/blob/master/sgb-words.txt)).
 
 ### Example use
 
